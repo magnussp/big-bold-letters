@@ -2,7 +2,7 @@
   "name": "Big Bold Letters",
   "short_name": "BoldLetters",
   "start_url": ".",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#FFF5E1",
   "theme_color": "#4da6ff",
   "description": "Big bold letters preview app",
@@ -19,4 +19,3 @@
     }
   ]
 }
-
